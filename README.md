@@ -5,3 +5,4 @@ git origin
 pushed to main branch
 push to server
 git pdf
+git fetch changes
